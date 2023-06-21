@@ -78,7 +78,7 @@ theme = "hugo-theme-shell"
   folderName = "información"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
-    ["Estudios", "/estudios/index.md"],
+    ["Formación", "/formacion/index.md"],
     ["Experiencia", "/experiencia/index.md"],
     ["Contacto", "/contacts/index.md"],
   ]
