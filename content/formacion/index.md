@@ -14,11 +14,15 @@ Durante el Master Universitario en Computación en la Nube y de Altas Prestacion
 
 - Estudié las estrategias y herramientas necesarias para el tratamiento de grandes volúmenes de datos (Big Data), como el modelo MapReduce para el análisis de grandes volúmenes de datos, implementado mediante Apache Hadoop, o el uso de Apache Spark.
 
+Tecnologías: Docker, Kubernetes, Ansible, MPI, OpenMP, Shell, CUDA, OpenCL, Apache Hadoop, Apache Spark, Kafka, ZeroMQ
+
 ---
 ### Grado en Ingeniería Informática
 
 2018-2022
 
 Universitat de Politécnica de València 
+
+Tecnologías: Java, C#, C+, CSS, HTML, JavaScript, ZeroMQ
 
 ---
