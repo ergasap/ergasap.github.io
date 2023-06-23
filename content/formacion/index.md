@@ -23,6 +23,6 @@ Tecnologías: Docker, Kubernetes, Ansible, MPI, OpenMP, Shell, CUDA, OpenCL, Apa
 
 Universitat de Politécnica de València 
 
-Tecnologías: Java, C#, C+, CSS, HTML, JavaScript, ZeroMQ
+Tecnologías: Java, C#, C+, CSS, HTML, JavaScript
 
 ---
